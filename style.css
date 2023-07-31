@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#nav{
+    height: 50px;
+    background-color:blueviolet;
+    color: white;
+    /* text-transform: none; */
+    padding-top: 10px;
+}
+#nav a{
+    color: rgba(0, 0, 0, 0.811);
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+button
+{
+    height: 22px;
+    width: 65px;
+    border-radius: 5px;
+    padding: 2px;
+    background-color:rgba(128, 128, 128, 0.745);
+}
+a{
+    margin-right:50px;
+}
